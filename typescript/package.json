@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tsx": "^4.20.6"
+  },
+  "dependencies": {
+    "@datastructures-js/priority-queue": "^6.3.4"
+  }
+}
